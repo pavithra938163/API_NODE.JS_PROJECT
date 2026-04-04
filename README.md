@@ -1,2 +1,31 @@
-# API_NODE.JS_PROJECT
-Developed a School Management API using Node.js, Express, and MySQL. It allows adding and listing schools based on location using distance calculation. Includes authentication, validation, pagination, search, and soft delete with a scalable backend design.
+# School Management API
+
+A backend project built using Node.js, Express.js, and MySQL.
+
+## Features
+- Add school API
+- List schools by proximity
+- JWT authentication
+- Input validation with Zod
+- Pagination support
+- Search support
+- Soft delete support
+- Rate limiting
+- Clean project structure
+- Error handling
+- Basic unit test placeholders
+
+## Tech Stack
+- Node.js
+- Express.js
+- MySQL
+- JWT
+- Zod
+- Jest
+
+## Setup Instructions
+
+### 1. Clone project
+```bash
+git clone <your-repo-url>
+cd school-management-api
