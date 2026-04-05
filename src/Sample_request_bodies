@@ -1,0 +1,18 @@
+#REGISTER
+{
+  "name": "Admin User",
+  "email": "admin@example.com",
+  "password": "123456"
+}
+#LOGIN
+{
+  "email": "admin@example.com",
+  "password": "123456"
+}
+#ADD_SCHOOL
+{
+  "name": "ABC Public School",
+  "address": "Bangalore, Karnataka",
+  "latitude": 12.9716,
+  "longitude": 77.5946
+}
